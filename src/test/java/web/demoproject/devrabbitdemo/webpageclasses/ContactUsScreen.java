@@ -11,7 +11,7 @@ import org.openqa.selenium.support.ui.Select;
 @SuppressWarnings("unused")
 public class ContactUsScreen extends BaseClass {
 	
-	public static String primaryInfo  = "{\"user_id\":7,\"executed_user_id\":29,\"is_generate\":false,\"is_execute\":false,\"is_web\":true,\"project_url\":\"https://devrabbit.com\",\"report_upload_url\":\"https://smartqe.io:443/UploadReportFile\",\"project_name\":\"DemoProject\",\"project_description\":\"This is for Demo\",\"project_id\":453,\"module_name\":\"DevrabbitDemo\",\"module_description\":\"\",\"sub_module_id\":0,\"module_id\":773,\"testcase_name\":\"TC_TC_DevRabbit_ContactDemo\",\"testcase_id\":652,\"testset_id\":0,\"executed_timestamp\":-1927875237,\"browser_type\":\"chrome\",\"testcase_overwrite\":true,\"client_timezone_id\":\"Asia/Calcutta\"}";
+	public static String primaryInfo  = "{\"user_id\":7,\"executed_user_id\":29,\"is_generate\":false,\"is_execute\":false,\"is_web\":true,\"project_url\":\"https://devrabbit.com\",\"report_upload_url\":\"https://smartqe.io:443/UploadReportFile\",\"project_name\":\"DemoProject\",\"project_description\":\"This is for Demo\",\"project_id\":453,\"module_name\":\"DevrabbitDemo\",\"module_description\":\"\",\"sub_module_id\":0,\"module_id\":773,\"testcase_name\":\"TC_TC_DevRabbit_ContactDemo\",\"testcase_id\":652,\"testset_id\":0,\"executed_timestamp\":-1423745452,\"browser_type\":\"chrome\",\"testcase_overwrite\":false,\"client_timezone_id\":\"Asia/Calcutta\"}";
 
 	public static String projectName = "demoproject";
 	public WebDriver driver;
