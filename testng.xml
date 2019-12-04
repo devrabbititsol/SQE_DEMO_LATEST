@@ -4,7 +4,7 @@
 	<test name="chrometest">
   	<parameter name="browser" value="chrome"/>
 		<classes>
-			<class name="web.demoproject.devrabbitdemo.webtestclasses.TC_TC_DevRabbit_ContactDemo" />
+			<class name="web.demoproject.devrabbitdemo.webtestclasses.TC_DevRabbit_ContactDemo" />
 			<class name="com.fileupload.ReportUpload" />
 		</classes>
 	</test>
